@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Liu Yen-Hua (劉燕樺)
+# 👋 Hello! I'm Yan-Hua Liu
 
 🎯 Career-changer passionate about entering the software and AI industry.  
 🧑‍💻 Currently studying Computer Engineering and completing an AI x Semiconductor bootcamp (NYCU x Ministry of Labor).  
