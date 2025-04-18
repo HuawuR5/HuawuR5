@@ -10,7 +10,7 @@
 
 - 🎓 Expected to graduate mid-2025, majoring in Computer Engineering
 - 📘 Completed 230-hour AI + Semiconductor Bootcamp  
-  Focused on Python, FPGA (DE10-Lite), and semiconductor systems
+  Focused on Python, FPGA, and semiconductor systems
 - 🔍 Seeking entry-level roles in software development, embedded systems, or AI-related fields
 
 ---
@@ -18,8 +18,7 @@
 ## 🔧 Technical Skills
 
 - **Languages**: Python, C++, C#, HTML/CSS, JavaScript (jQuery)
-- **Tools**: Git, GitHub, VS Code, Arduino, FPGA (DE10-Lite)
-- **Concepts**: OOP, Web basics, Multi-Object Tracking (MOT)
+- **Tools**: Git, GitHub, VS Code, Arduino, FPGA
 
 ---
 
@@ -27,11 +26,11 @@
 
 - 🎯 **One-Stage MOT with JDE**  
   Person tracking using a pre-trained JDE model, environment setup, error resolution, and video output  
-  _[Coming Soon]_ 🔧
+  [JDE demo](https://github.com/HuawuR5/One-Stage-MOT-JDE-demo) "Visit JDE demo")
 
 - 🌐 **Personal Portfolio Website**  
-  A Django + jQuery site to showcase my projects and learning journey  
-  _[Coming Soon]_ 💡
+  A HTML/CSS jQuery site to showcase my projects and learning journey  
+  [Personal Website](https://huawur5.github.io/)) "Visit Personal Website")
 
 - 🎮 **Tic Tac Toe (Custom Rules)**  
   Built with App Inventor 2 to implement a unique variant of the game  
