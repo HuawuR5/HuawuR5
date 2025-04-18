@@ -26,11 +26,11 @@
 
 - 🎯 **One-Stage MOT with JDE**  
   Person tracking using a pre-trained JDE model, environment setup, error resolution, and video output  
-  [JDE demo](https://github.com/HuawuR5/One-Stage-MOT-JDE-demo) "Visit JDE demo")
+  [JDE demo](https://github.com/HuawuR5/One-Stage-MOT-JDE-demo "Visit JDE demo")
 
 - 🌐 **Personal Portfolio Website**  
   A HTML/CSS jQuery site to showcase my projects and learning journey  
-  [Personal Website](https://huawur5.github.io/)) "Visit Personal Website")
+  [Personal Website](https://huawur5.github.io/ "Visit Personal Website")
 
 - 🎮 **Tic Tac Toe (Custom Rules)**  
   Built with App Inventor 2 to implement a unique variant of the game  
